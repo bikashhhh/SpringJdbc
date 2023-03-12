@@ -1,6 +1,6 @@
 package com.spring.entities;
 
-public class Student {//Student  table 
+public class Student {//Student   table 
 	//column names
 	private int id;
 	private String name;
